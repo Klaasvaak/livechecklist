@@ -81,4 +81,4 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 * Backup EN restore getest?
 * FTP login aangemaakt voor beheer?
 * Trainingswebsite gearchiveerd en verwijderd?
-* Test je website buiten je eigen netwerk/dns
+* Test je website buiten je eigen netwerk/dns ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/))

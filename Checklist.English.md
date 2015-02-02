@@ -81,4 +81,4 @@ Checklist for when a Joomla! website goes live:
 * Backup AND restore tested?
 * FTP login created for support?
 * Trainingwebsite archived and removed?
-* Check your website outside your network/dns
+* Check your website outside your network/dns ([YSLOW](http://yslow.org/)), ([PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)), ([webpagetest](http://www.webpagetest.org/)) 
